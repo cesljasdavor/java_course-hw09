@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/fractal-viewer-1.0.jar" sourcepath="lib/fractal-viewer-1.0-javadoc.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/davor/FER/6.semestar/OPJJ/Workspace/hw09-0036486648/lib/fractal-viewer-1.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/raytracer-1.0.jar" sourcepath="lib/raytracer-1.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
